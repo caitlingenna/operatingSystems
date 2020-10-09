@@ -1,4 +1,4 @@
-# operatingSystems
+## operatingSystems
 
 C++ code that emulates and demonstrates the workings of an operating system.
 
